@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth Checker</string>
+    <string name="app_intro_text">Listing all installed apps with permission to turn on bluetooth programmatically</string>
+</resources>
