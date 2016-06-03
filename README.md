@@ -9,3 +9,5 @@ Android app with permissions [android.permission.BLUETOOTH_ADMIN][bluetooth_admi
 
 [bluetooth_admin]:https://developer.android.com/reference/android/Manifest.permission.html#BLUETOOTH_ADMIN
 
+# Credits
+launcher bluetooth icon: [Icon made by flaticon from www.flaticon.com ](http://www.freepik.com/free-icon/bluetooth-symbol_732497.htm)
